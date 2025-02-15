@@ -1,0 +1,6 @@
+name: CrazyAuctionsAddon
+version: '${project.version}'
+main: com.ycjhub.crazyauctionsaddon.CrazyAuctionsAddon
+api-version: '1.21.4'
+depend: [CrazyAuctions]
+
