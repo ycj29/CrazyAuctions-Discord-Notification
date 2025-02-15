@@ -1,4 +1,4 @@
-# CrazyAuctions Webhook Integration
+# CrazyAuctions Webhook Notification
 
 ## Overview
 This plugin sends a Discord webhook notification whenever a player **lists** or **purchases** an item in **CrazyAuctions**.
