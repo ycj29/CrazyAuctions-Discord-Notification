@@ -1,8 +1,11 @@
-# Send Discord webhook when player List/Purchase item in CrazyAuctions
+# CrazyAuctions Webhook Integration
+
+## Overview
+This plugin sends a Discord webhook notification whenever a player **lists** or **purchases** an item in **CrazyAuctions**.
 
 ## Installation
-1. upload plugin to /plugin folder
-2. restart your server
-3. fill out config.yml
-4. you're good to go!
 
+1. Upload the plugin to the `/plugins` folder.
+2. Restart your server.
+3. Configure `config.yml` with your Discord webhook URL.
+4. You're all set!
